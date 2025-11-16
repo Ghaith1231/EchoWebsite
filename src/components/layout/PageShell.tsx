@@ -1,7 +1,4 @@
-import React, { ReactNode } from "react";
-
-
-
+import type { ReactNode } from "react";
 type PageShellProps = {
   children: ReactNode;
 };
