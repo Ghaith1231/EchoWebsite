@@ -1,7 +1,7 @@
 import React from "react";
 
 
-import { PageShell } from "./components/layout/PageShell";
+import { PageShell } from "./features/home/components/PageShell";
 
 export default function App() {
   return (
